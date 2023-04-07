@@ -35,6 +35,31 @@ const AboutPage = () => {
         magni velit obcaecati, modi quod libero blanditiis! Ad, corrupti
         veritatis esse cum accusantium sint corporis!
       </h1>
+      <h1>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quo
+        numquam recusandae, asperiores quisquam inventore alias perspiciatis
+        nobis adipisci a debitis ut itaque tenetur dignissimos ratione sequi,
+        ullam atque eligendi eaque ab obcaecati quas unde libero. Atque magni
+        sunt facere, distinctio dolorem odit officiis dignissimos voluptatem!
+        Iure, ab soluta voluptate animi odit quia repellendus dolores commodi
+        odio a ducimus tempore impedit eaque temporibus beatae optio. Quibusdam
+        culpa deserunt tempore dolores iusto nihil blanditiis consequatur
+        dolore, eum, sequi quam autem incidunt obcaecati aut veniam eius,
+        asperiores accusamus. Velit sint nostrum quidem commodi recusandae
+        aperiam! Nihil vero non officia quas exercitationem labore saepe
+        aspernatur quidem quibusdam, sed molestias officiis corrupti culpa eaque
+        provident perferendis est cumque quisquam, magni velit commodi ratione
+        soluta impedit! Ipsam eligendi facere aspernatur iste, iure unde aliquid
+        sunt quidem reiciendis nihil ut delectus dolores architecto a,
+        voluptates ea velit magnam dolorum beatae pariatur quo. Iusto ad
+        cupiditate quidem perspiciatis quas quisquam consectetur repellendus
+        modi excepturi. Neque quaerat nostrum aperiam! Asperiores nobis ipsa
+        suscipit, doloribus recusandae, explicabo voluptatem perspiciatis
+        debitis perferendis saepe minus nostrum! Non eius sunt omnis corporis
+        distinctio pariatur quo, eum, molestiae esse saepe, harum natus qui
+        accusamus. Alias suscipit maiores culpa asperiores eum possimus officia
+        quidem.
+      </h1>
     </div>
   )
 }
