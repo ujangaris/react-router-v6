@@ -6,12 +6,14 @@ import { Route, Routes } from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
 import ContactPage from './pages/ContactPage'
+import NavComponents from './components/NavComponents'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div>
+      <NavComponents />
       <Routes>
         <Route path='/' Component={HomePage} />
         <Route path='/about' Component={AboutPage} />
