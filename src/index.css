@@ -67,3 +67,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.home-page .btn,
+.contact-page .btn,
+.about-page .btn {
+  text-decoration: none;
+  padding: 15px 30px;
+  background-color: rebeccapurple;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  margin-right: 10px;
+}
